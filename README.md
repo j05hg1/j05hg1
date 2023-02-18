@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/joseph-jean-pierre-giraldo-scarpetta-a40636255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-jean-pierre-giraldo-scarpetta-a40636255" height="30" width="40" /></a>
 <a href="https://instagram.com/j05hg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j05hg1" height="30" width="40" /></a>
-<a href="https://discord.gg/643355994713489440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7788" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
