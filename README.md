@@ -3,7 +3,7 @@
 
 <h1 align="center">Hola 👋, Me llamo Joseph Giraldo</h1>
 <h3 align="center">Soy un <strong>Desarrollador Junior<strong></h3>
-
+<br>
 - 💬 Pregúntame sobre **PHP, C++, Java, JavaScript, TypeScript, Node.js, HTML5, CSS**
 
 - 📫 Como contactarme **joseph.giraldo394@gmail.com**
