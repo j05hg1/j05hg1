@@ -1,17 +1,19 @@
+[![Header](https://github.com/j05hg1/j05hg1/blob/main/Banner-desarrollador.png "Header")]
+
 <h1 align="center">Hola 👋, Me llamo Joseph Giraldo</h1>
-<h3 align="center">Soy un Junior Developer</h3>
+<h3 align="center">Soy un **Desarrollador Junior**</h3>
 
 - 💬 Pregúntame sobre **PHP, C++, Java, JavaScript, TypeScript, Node.js, HTML5, CSS**
 
 - 📫 Como contactarme **joseph.giraldo394@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joseph-jean-pierre-giraldo-scarpetta-a40636255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-jean-pierre-giraldo-scarpetta-a40636255" height="30" width="40" /></a>
 <a href="https://instagram.com/j05hg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j05hg1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
