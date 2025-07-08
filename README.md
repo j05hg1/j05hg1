@@ -2,11 +2,13 @@
 [![Header](https://github.com/j05hg1/j05hg1/blob/main/Banner-desarrollador.png "Header")](https://github.com/j05hg1/j05hg1/?sub_confirmation=1)
 
 <h1 align="center">Hola 👋, Me llamo Joseph Giraldo</h1>
-<h3 align="center">Soy un <strong>Desarrollador Junior<strong></h3>
+<h3 align="center">Soy <strong>Desarrollador de Software<strong></h3>
 
-- 💬 Pregúntame sobre **PHP, C++, Java, JavaScript, TypeScript, Node.js, HTML5, CSS**
+- 💬 Pregúntame sobre **PHP, C++, Java, JavaScript, TypeScript, Node.js, HTML5, CSS, C#**
 
 - 📫 Como contactarme **joseph.giraldo394@gmail.com**
+
+- Mira mi **CV:** <a href="https://drive.google.com/file/d/1ZzIwDBx6l_yfQ6zi8vNba3Z6kvI_yjUF/view?usp=sharing"/>**aquí**</a>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
@@ -103,6 +105,9 @@
 	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 	</a> 
+	<a href="https://es.react.dev" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+	</a>
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
 	</a> 
@@ -115,9 +120,17 @@
 	<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
 	</a> 
+	</a> 
+	<a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/> 
+	</a>
 	<!-- 
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-	</a> -->
+	</a> 
+	<a href="https://es.react.dev" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+	</a>
+	-->
 </p>
 
