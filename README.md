@@ -65,7 +65,7 @@
 <!-- Inicio Tech Stack icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,jquery,bootstrap,js,androidstudio,kotlin,java,spring,maven,c,cpp,cs,dotnet,php,laravel,materialui,ts,angular,tailwind,nodejs,express,astro,python,django,react,sqlite,mysql,postgres,mongodb,firebase,git,github,kubernetes,docker,aws,azure,gcp,postman,fastapi,selenium,sublime,eclipse,vscode,visualstudio,idea,bash,linux,kali,debian,ubuntu,npm,nginx,arduino,notion,windows,powershell,qt,wordpress,vercel,vite,&perline=17" />
+    <img src="https://skillicons.dev/icons?i=css,html,jquery,bootstrap,js,androidstudio,kotlin,java,spring,maven,c,cpp,cs,dotnet,php,laravel,materialui,ts,angular,tailwind,nodejs,express,astro,python,django,react,sqlite,mysql,postgres,mongodb,firebase,git,github,kubernetes,docker,aws,azure,gcp,postman,fastapi,selenium,sublime,eclipse,vscode,visualstudio,idea,bash,linux,kali,debian,ubuntu,npm,nginx,arduino,notion,windows,powershell,qt,wordpress,vercel,vite,&perline=18" />
   </a>
 </p>
 <!-- Fin Tech Stack icons -->
