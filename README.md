@@ -155,14 +155,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=j05hg1&theme=dark&show_icons=true&&hide_border=true&locale=en" alt="j05hg1"/>
 &nbsp;
 
-<img title="🔥 Profile Stats" src="https://github-readme-streak-stats.herokuapp.com?user=j05hg1&theme=dark&hide_border=true" alt="j05hg1" /></a>
+<img title="🔥 Profile Stats" src="https://github-readme-streak-stats.herokuapp.com?user=j05hg1&theme=dark&hide_border=true" alt="j05hg1" />
 &nbsp;
 </td>
 
 <td width="40%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-<b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  &nbsp;
+<p><b></b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   </td>
 </tr>
 </table>
@@ -172,20 +173,18 @@
 <div align=left>
 	
 <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=j05hg1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="j05hg1" />
-    </a>
+    
 </div>
 <!--- trophy (end) -->
 </p>        
 <!--- stats (end) -->
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
 </p>
 
----
-
+<hr>
 Last Edited on: 10/07/2025
 
