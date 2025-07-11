@@ -163,7 +163,7 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   &nbsp;
-<p><b></b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<p><b>Note</b>: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   </td>
 </tr>
 </table>
@@ -172,7 +172,7 @@
 <!--- trophy (start) -->
 <div align=left>
 	
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=j05hg1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="j05hg1" />
+<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=j05hg1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="j05hg1">
     
 </div>
 <!--- trophy (end) -->
